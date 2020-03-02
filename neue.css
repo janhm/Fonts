@@ -11,7 +11,7 @@ src: url('https://janhm.github.io/Fonts/adineuePRO-Regular.woff2') format('woff2
 /* latin */
 @font-face {
  font-family: 'adineuePRO';
- font-style: normal;
+ font-style: bold;
  font-weight: 700;
 display: swap;
 src: url('https://janhm.github.io/Fonts/adineue-pro-tt-black') format('woff2');
