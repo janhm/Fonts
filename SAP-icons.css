@@ -1,0 +1,8 @@
+/* latin */
+@font-face {
+ font-family: '_SAP-icons';
+ font-style: normal;
+ font-weight: 400;
+display: swap;
+src: url('https://janhm.github.io/Fonts/SAP-icons.woff2') format('woff2');
+}
