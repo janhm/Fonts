@@ -6,3 +6,14 @@
 display: swap;
 src: url('https://janhm.github.io/Fonts/AdihausDIN-Regular.woff2') format('woff2');
 }
+
+/* latin */
+@font-face {
+ font-family: 'AdihausDIN';
+ font-style: normal;
+ font-weight: 700;
+display: swap;
+src: url('https://janhm.github.io/Fonts/AdihausDIN-Bold.woff2') format('woff2');
+}
+
+
