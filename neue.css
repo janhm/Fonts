@@ -1,0 +1,18 @@
+  
+/* latin */
+@font-face {
+ font-family: 'adineuePRO';
+ font-style: normal;
+ font-weight: 400;
+display: swap;
+src: url('https://janhm.github.io/Fonts/adineuePRO-Regular.woff2') format('woff2');
+}
+
+/* latin */
+@font-face {
+ font-family: 'adineuePRO';
+ font-style: normal;
+ font-weight: 600;
+display: swap;
+src: url('https://janhm.github.io/Fonts/adineuePRO-Bold.woff2') format('woff2');
+}
