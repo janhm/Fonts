@@ -1,11 +1,7 @@
-/* adihaus FONT */
+/* latin */
 @font-face {
-  font-family: AdihausDIN;
-  src:
-    local('AdihausDIN Regular'),
-    local('AdihausDIN-Regular'),
-    url('https://adl-foundation.adidas.com/prod/v26.0.0/assets/fonts/adidas/AdihausDIN-Regular.woff2') format('woff2'),
-    url('https://adl-foundation.adidas.com/prod/v26.0.0/assets/fonts/adidas/AdihausDIN-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
+ font-family: 'AdihausDIN';
+ font-style: normal;
+ font-weight: 400;
+display: swap;
+src: url ('https://adl-foundation.adidas.com/prod/v26.0.0/assets/fonts/adidas/AdihausDIN-Regular.woff2') format('woff2');
